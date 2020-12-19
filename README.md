@@ -2,6 +2,7 @@
 
 
 Il progetto nasce con l’intento di predire se una paziente possa ripresentare in futuro un cancro al seno in base ad elementi classificanti la malattia. A tal proposito sono state adottate una serie di tecniche sia di apprendimento supervisionato sia non supervisionato. Inoltre, è stata modellata un’ontologia di dominio che offre una rappresentazione formale e concettualizzata della realtà presa in esame, affinché sia relazionabile con altre ontologie già esistenti e possa venire interrogata.
+
 Il dataset(https://archive.ics.uci.edu/ml/datasets/Breast+Cancer) utilizzato prevede le seguenti features:
 	1. Class(target): no-recurrence-events, recurrence-events
 	2. age: 10-19, 20-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89, 90-99.
