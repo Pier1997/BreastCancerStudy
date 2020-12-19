@@ -19,8 +19,10 @@ Il dataset(https://archive.ics.uci.edu/ml/datasets/Breast+Cancer) utilizzato pre
 	10.irradiat: yes, no.
 	
 Per ogni algoritmo di apprendimento supervisionato sono stati prodotti i seguenti grafici:
+
 	• ROC Curve
 	• Precision-Recall Curve
 	• Bar Chart di varianza e deviazione standard • Matrice di Confusione
+	
 Per la maggior parte degli algoritmi è stata usata la tecnica della cross-validation per rilevare possibili problemi di sovra-adattamento. A tal proposito si riportano i valori del punteggio medio (cross-val-score), della varianza, dev. Standard su cinque iterate.
 
