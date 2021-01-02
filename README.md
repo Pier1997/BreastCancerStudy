@@ -26,3 +26,5 @@ Per ogni algoritmo di apprendimento supervisionato sono stati prodotti i seguent
 	
 Per la maggior parte degli algoritmi è stata usata la tecnica della cross-validation per rilevare possibili problemi di sovra-adattamento. A tal proposito si riportano i valori del punteggio medio (cross-val-score), della varianza, dev. Standard su cinque iterate.
 
+
+@SeeAlso Relazione - Progetto
